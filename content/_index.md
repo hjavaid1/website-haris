@@ -2,7 +2,7 @@
 title: "Haris Javaid"
 subtitle: "Data - Consulting - Sustainability"
 
-description: "**TL;DR**  | A recent graduate interested in consulting."
+description: "A recent graduate interested in consulting"
 
 
 text_align_left: true
