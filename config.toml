@@ -29,7 +29,7 @@ googleAnalytics = ""
 # HUGO-APERO SETTINGS ---------------------------------------------------------
 [params]
   orgName = ""
-  orgLocal = "Made by Hamzah Javaid"
+  orgLocal = "Made by Haris Javaid"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
 
   favicon = ""
@@ -67,7 +67,7 @@ googleAnalytics = ""
 
   [params.utterances]
     use_utterances = true
-    repo_name = "merkede/podcast-website"
+    repo_name = "."
     issue_term = "title" # url, pathname, or title
     theme = "github-light"
     label = "comments :crystal_ball:"
@@ -94,23 +94,18 @@ googleAnalytics = ""
     url = "/projects/"
     weight = 2
     
-  [[menu.header]]
-    name = "Podcast"
-    title = "My project portfolio"
-    url = "/pubs/"
-    weight = 3
     
    [[menu.header]]
     name = "Certifications"
     title = "My collection of paper"
     url = "/certifications/"
-    weight = 4
+    weight = 3
     
   [[menu.header]]
     name = "Contact"
     title = "My project portfolio"
     url = "/contact/"
-    weight = 5   
+    weight = 4   
   
   [[menu.footer]]
     name = "License"
@@ -121,17 +116,17 @@ googleAnalytics = ""
   [[menu.footer]]
     name = "LinkedIn"
     title = "linkedin"
-    url = "https://www.linkedin.com/in/hamzah-j/"
+    url = "https://www.linkedin.com/in/haris-j-911aaa153/"
     weight = 2
     
 [[params.social]]
     icon      = "linkedin" 
     icon_pack = "fab"
-    url       = "https://www.linkedin.com/in/hamzah-j/"
+    url       = "https://www.linkedin.com/in/haris-j-911aaa153/"
 [[params.social]]
     icon      = "cv" 
     icon_pack = "ai"
-    url       = "https://sqltopyspark.netlify.app/pdf_location/test_CV2.pdf"
+    url       = "."
 
 # PRIVACY CONTENT -------------------------------------------------------------
 # see https://gohugo.io/about/hugo-and-gdpr/
