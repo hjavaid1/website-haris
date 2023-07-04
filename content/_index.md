@@ -1,10 +1,8 @@
 ---
-title: "Hamzah Javaid"
-subtitle: "Data Science & Analytics ... with philosophical tendencies"
+title: "Haris Javaid"
+subtitle: "Data - Consulting - Sustainability"
 
-description: "**TL;DR**  | I am a Data Scientist with an interest in philosophy.
-       \
-\n I strive to be a generalist, sitting at the intersection of data science + product + strategy"
+description: "**TL;DR**  | A recent graduate interested in consulting."
 
 
 text_align_left: true
@@ -12,7 +10,7 @@ text_align_left: true
 show_social_links: true
 
 images: 
-- img/hello.png
+- img/harisphoto.jpg
 image_left: true
 
 show_action_link: true
