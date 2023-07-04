@@ -14,7 +14,7 @@
 
 [[redirects]]
   from = "/cv"
-  to = "https://sqltopyspark.netlify.app/pdf_location/test_CV_110323.pdf"
+  to = "."
   status = 200
 
 [[redirects]]
