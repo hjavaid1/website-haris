@@ -1,5 +1,5 @@
 ---
-title: "UN Carbon Taxation"
+title: "Accenture Strategy Consulting"
 subtitle: ""
 excerpt: "I succesfully completed a Strategy Consulting course from Accenture."
 author: "Haris Javaid"
