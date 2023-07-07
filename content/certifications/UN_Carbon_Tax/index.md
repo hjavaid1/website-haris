@@ -1,10 +1,8 @@
 ---
 title: "UN Carbon Taxation"
 subtitle: ""
-excerpt: "I succesfully completed a UN Carbon Taxation course & exam."
-date: "2020-11-06"
-date_end: "2019-11-07"
-author: "Hamzah Javaid"
+excerpt: "I succesfully completed a Strategy Consulting course from Accenture."
+author: "Haris Javaid"
 show_post_thumbnail: true
 draft: false
 tags:
@@ -22,7 +20,7 @@ links:
 
 ![UN Carbon Taxation](featured-hex.JPG)
 
-### UN Carbon Taxation
+### Strategy Consulting
 ---
 
-I succesfully completed a UN Carbon Taxation course & exam
+I succesfully completed a Strategy Consulting course from Accenture
